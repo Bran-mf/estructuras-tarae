@@ -1,0 +1,8 @@
+total puntos:
+8400
+total de puntos en posecion:
+8400
+total de puntos con vidas perdidas:
+1400
+total de puntos sin vidas perdidas:
+7000
